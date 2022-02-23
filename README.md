@@ -1,8 +1,7 @@
 ### Hi Developers 👋
 [![Linkedin Badge](https://www.linkedin.com/in/fazan-tanveer-3bb9aa158/)
-I'm
-Full Stack Web Developer
-I'm Front-end Developer after graduating in INFORMATION TECHNOLOGY,i wokred for a startup as a Designer where i got hand on experience in HTML,CSS, Javascript.
+
+I'm Full Stack Web Developer after graduating in INFORMATION TECHNOLOGY,i wokred for a startup as a Designer where i got hand on experience in HTML,CSS, Javascript.
 
 ![Visitor Count](https://profile-counter.glitch.me/fazantanveer/count.svg)
 
